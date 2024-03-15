@@ -1,0 +1,6 @@
+Flask
+pandas
+requests
+random
+os
+scikit-learn
