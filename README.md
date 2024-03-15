@@ -44,26 +44,32 @@
 <img  width="100" height="120" align="center" src="https://user-images.githubusercontent.com/110530263/225117486-588eb822-df15-44c5-aa77-d6a955fa9002.png">
  </div> --->
  
-- Helps Restaurants Give Back: HungerHeaven makes it easy for restaurants to share extra food with people who need it.
+- Introducing "Suspense" – the app that helps you find awesome movies easily! With "Suspense," you get personalized recommendations based on what you like. Whether you're into action, romance, or comedy, we've got suggestions for you. 
+- Plus, we make it fun by offering random movie picks, so you can discover something new with just a tap. Our app is super easy to use, with a simple interface that makes finding movies a breeze. Say goodbye to endless scrolling and hello to non-stop entertainment with "Suspense" – download now and start watching!
 
-- See Your Impact: Know exactly how your donations are making a difference in real-time.
 
-- Simple and Direct: The app connects surplus food from restaurants directly to individuals or groups in need.
 
 
 ## `Local Implementation`
-# Clone the repository
+- Clone the repository
+
+```
 git clone https://github.com/dhruvlife/Code-Edu-Hack.git
+```
 
-# Navigate to the project directory
+- Navigate to the project directory
+```
 cd Code-Edu-Hack
-
-# Install dependencies
+```
+- Install dependencies
+```
 pip install -r requirements.txt
+```
 
-# Run the Flask application
+- Run the Flask application
+```
 flask run
-
+```
 
 
 ## `Technologies Used`
@@ -109,7 +115,7 @@ flask run
 
 1. Take a look at the existing issues or create your own issues!
 2. Wait for the issue to be assigned to you.
-3. Fork the repository: [Hunger-Heaven-Delivery Repository](https://github.com/yash240408/Code-Edu-Hack)
+3. Fork the repository: [Suspense-Repository](https://github.com/yash240408/Code-Edu-Hack)
 4. Clone the repository to your local machine using the following command:
     ```bash
     git clone https://github.com/yash240408/Code-Edu-Hack
