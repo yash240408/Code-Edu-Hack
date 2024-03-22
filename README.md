@@ -26,13 +26,13 @@
 
 # 🧭 `Table of contents`
 
-- [Hunger Heaven](#Suspense)
+- [Suspense](#Suspense)
 - [Table of contents🧭 ](#Table-of-contents)
 - [Introduction🚀](#Introduction)
 - [Local Implementation](#Local-Implementation)
 - [Technologies Used📫](#Technologies-Used)
 - [Features](#Features)
-- [Hunger Heaven in Action](#Screenshots-and-Video)
+- [Suspense In Action](#Screenshots-and-Video)
 - [Made By](#Builders)
 
 
@@ -111,7 +111,7 @@ flask run
 | Random Movies Screen | |
 
 ## How to Contribute
-💥 **How to Contribute to Hunger-Heaven?**
+💥 **How to Contribute to Suspense?**
 
 1. Take a look at the existing issues or create your own issues!
 2. Wait for the issue to be assigned to you.
@@ -136,7 +136,7 @@ flask run
 8. Create a Pull Request (PR) from your fork to the `main` branch of the original repository.
 9. Wait for your PR to be reviewed and merged.
 
-Thank you for contributing to Hunger-Heaven! 🌟
+Thank you for contributing to Suspense! 🌟
 
 ## `Builders`
 
